@@ -34,5 +34,5 @@ A full-stack e-learning application where users can sign up, purchase courses, a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/elearning-platform.git
+git clone https://github.com/Michaeldotenv/E-Learning-Website-With-Payment-Gateway-And-User-Authentication
 cd elearning-platform
